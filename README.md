@@ -1,11 +1,10 @@
-# siteprovisioning
-##Site Provisioning and Migration tool for Office 365
+# Site Provisioning and Migration tool for Office 365
 
-##Project Description
+## Project Description
 
 I built a Site Provisioning and migration tool for Office 365 and finally the tool is ready to be released as preview version. I built this tool with simplicity in mind, Single click will do site provisioning, Provisioning the themes and Master pages. Also migrate the lists, Libraries and Pages content to the target site including web part pages.
 
-This tool support including content
+## This tool support including content
 
 Site Collection to Site Collection
 Site Collection site to Sub site
@@ -14,9 +13,9 @@ Sub Site to Site Collection site
 Site Collection – current top level site
 Environment – Office 365 SharePoint Online
 
-Limitation
+## Limitation
 List/Library view Web part unable to migrate, since list/library view web part hold the source site list URL.
 
-Code used
+## Code used
 Pnp Core – (SharePoint Pnp Core LIbrary for SharePoint Online)
 New SharePoint CSOM version for SharePoint Online – June 2016 (Microsoft.SharePointOnline.CSOM )
