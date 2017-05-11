@@ -19,3 +19,5 @@ List/Library view Web part unable to migrate, since list/library view web part h
 ## Code used
 Pnp Core – (SharePoint Pnp Core LIbrary for SharePoint Online)
 New SharePoint CSOM version for SharePoint Online – June 2016 (Microsoft.SharePointOnline.CSOM )
+
+http://jenkinsblogs.com/sharepoint-migration-tool-free/
