@@ -13,7 +13,8 @@ I built a Site Provisioning and migration tool for Office 365 SharePoint. I buil
  - Sub Site to Site Collection site
  - Site Collection – current top level site
 
-## Environment – Office 365 SharePoint Online
+## Environment
+ - Office 365 SharePoint Online
 
 ## Limitation
  - List/Library view Web part unable to migrate, since list/library view web part hold the source site list URL.
