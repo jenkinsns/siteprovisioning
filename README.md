@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](http://jenkinsblogs.com/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/jenkinsns/SPListjs/blob/master/LICENSE) 
+
 # Site Provisioning and Migration tool for Office 365
 
 ## Project Description
